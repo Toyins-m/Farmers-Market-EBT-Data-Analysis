@@ -85,7 +85,7 @@ The analysis provides insights that support food equity initiatives, strengthen 
 - Reduce food insecurity in LA communities
 
 ## 📁 Repository Structure
-- [Presentation](Presentation/)
-- [Report](Report/)
-- [Reflection](Reflection/)
+- [Presentation](Project-Presentation/)
+- [Report](Project-report/)
+- [Reflection](Project-reflection/)
 - [README.md](README.md)
