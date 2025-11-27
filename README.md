@@ -85,11 +85,7 @@ The analysis provides insights that support food equity initiatives, strengthen 
 - Reduce food insecurity in LA communities
 
 ## 📁 Repository Structure
-- [Initial-recon](Initial-recon/)
-- [Vsftpd-exploit](Vsftpd-exploit/)
-- [Distccd-exploit](Distccd-exploit/)
-- [Vnc-compromise](Vnc-compromise/)
-- [Tomcat-admin](Tomcat-admin/)
-- [Tutorial](Tutorial/)
+- [Presentation](Presentation/)
 - [Report](Report/)
+- [Reflection](Reflection/)
 - [README.md](README.md)
